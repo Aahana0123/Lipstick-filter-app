@@ -1,0 +1,16 @@
+#snapshot{
+    color: darkmagenta;
+    background-color: rgb(223, 183, 243);
+    font-size: 20px;
+
+}
+
+h1{
+    color: rgb(208, 132, 246);
+    background-color: indigo;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+canvas{
+    margin-top: 150px;
+}
